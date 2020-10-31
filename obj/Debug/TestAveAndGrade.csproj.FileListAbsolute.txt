@@ -1,0 +1,10 @@
+D:\Documents\Visual Studio 2019\Projects\TestAveAndGrade\bin\Debug\TestAveAndGrade.exe.config
+D:\Documents\Visual Studio 2019\Projects\TestAveAndGrade\bin\Debug\TestAveAndGrade.exe
+D:\Documents\Visual Studio 2019\Projects\TestAveAndGrade\bin\Debug\TestAveAndGrade.pdb
+D:\Documents\Visual Studio 2019\Projects\TestAveAndGrade\obj\Debug\TestAveAndGrade.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2019\Projects\TestAveAndGrade\obj\Debug\TestAveAndGrade.Form1.resources
+D:\Documents\Visual Studio 2019\Projects\TestAveAndGrade\obj\Debug\TestAveAndGrade.Properties.Resources.resources
+D:\Documents\Visual Studio 2019\Projects\TestAveAndGrade\obj\Debug\TestAveAndGrade.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2019\Projects\TestAveAndGrade\obj\Debug\TestAveAndGrade.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2019\Projects\TestAveAndGrade\obj\Debug\TestAveAndGrade.exe
+D:\Documents\Visual Studio 2019\Projects\TestAveAndGrade\obj\Debug\TestAveAndGrade.pdb
